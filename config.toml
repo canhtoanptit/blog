@@ -11,11 +11,11 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
+    author = "canhtoanptit"
     title = "Title"
     # description = "..."
     authorimage = "/img/hugo.png"
-    dateformat = "Jan 2, 2006"
+    dateformat = "July 28, 2018"
     highlightjs = true
     # highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
@@ -25,7 +25,7 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
+    github = "canhtoanptit"
     instagram = "<username>"
     xing = "<username>"
     linkedin = "<username>"
